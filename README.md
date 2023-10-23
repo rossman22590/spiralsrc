@@ -1,6 +1,6 @@
 <a href="https://spirals.vercel.app">
   <img alt="Spirals – Generate beautiful AI spiral art with one click." src="/app/opengraph-image.png">
-  <h1 align="center">Spirals</h1>
+  <h1 align="center">Spirals</h1> 
 </a>
 
 <p align="center">
